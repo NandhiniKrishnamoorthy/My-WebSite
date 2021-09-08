@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #EF4444;
+    --primary-color: #60A5FA;
 }
 /**List**/
 .list-nonbullet{
@@ -9,7 +9,7 @@
 
 .list-inline{
     display:inline;
-    padding:0rem 2rem;
+    padding:0rem 1rem;
 }
 
 .nav-background{
@@ -17,4 +17,5 @@
     color:white;
     font-weight:bold;
     padding:1rem;
+    text-align:right;
 }
