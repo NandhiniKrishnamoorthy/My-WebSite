@@ -3,3 +3,7 @@
 .list-nonbullet{
     list-style:none;
 }
+
+.list-inline{
+    display:inline;
+}
