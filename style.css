@@ -1,3 +1,5 @@
+
+/**List**/
 .list-nonbullet{
-    display:none;
+    list-style:none;
 }
