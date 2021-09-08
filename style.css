@@ -11,6 +11,6 @@
     padding:0rem 2rem;
 }
 
-nav-background{
+.nav-background{
     background-color:var(--primary-color);
 }
