@@ -1,4 +1,6 @@
-
+:root {
+    --primary-color: "#34D399";
+}
 /**List**/
 .list-nonbullet{
     list-style:none;
@@ -7,4 +9,8 @@
 .list-inline{
     display:inline;
     padding:0rem 2rem;
+}
+
+nav-background{
+    background-color:var(--primary-color);
 }
