@@ -20,17 +20,25 @@ body {
     padding:0rem 1rem;
 }
 
-.nav-background{
-    background-color:var(--primary-color);
-    color:white;    
-    padding:1rem;   
+/**Navigation**/
+.nav-background {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
-.nav-background .list-link{
+/*Link*/
+.list-link{
     color:white;
 }
 
 .link{
     text-decoration:none;
     padding: 0rem 0.5rem;
+}
+
+.link-active{
+    font-weight:bold;
 }
