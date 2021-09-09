@@ -10,7 +10,7 @@ body {
 }
 
 /**List**/
-.list-nonbullet {
+.nav-background .list-nonbullet {
     list-style: none;
     padding-inline-start: 0px;
     text-align: right;
