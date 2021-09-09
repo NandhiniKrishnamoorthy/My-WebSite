@@ -51,7 +51,8 @@ body {
 }
 
 .hero .hero-image{
-    width : 300px;
+    padding : 0rem 2rem;
+    width : 200px;
 }
 
 .hero .highlighter{
