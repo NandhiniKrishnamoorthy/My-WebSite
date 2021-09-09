@@ -24,11 +24,10 @@ body {
 .nav-background {
     background-color: var(--primary-color);
     color: white;
-    padding: 1rem;
+    padding: 0.5rem;
     border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
-    max-width:1000px;
-    margin:auto;
+    border-bottom-right-radius: 1rem;    
+    margin:0.5rem 1rem;
 }
 
 /*Link*/
