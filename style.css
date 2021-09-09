@@ -18,7 +18,7 @@ body {
 
 .list-inline{
     display:inline;
-    padding:0rem 1rem;
+    padding:0rem 0.5rem;
 }
 
 /**Navigation**/
@@ -41,6 +41,7 @@ body {
     text-decoration: none;
     padding: 0rem 0.5rem;
     color: white;
+    margin:auto;
 }
 
 .nav-background .link-active{
