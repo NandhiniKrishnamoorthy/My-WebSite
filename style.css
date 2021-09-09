@@ -54,10 +54,9 @@ body {
 .footer-background {
     background-color: var(--primary-color);
     border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
-    margin: 0rem 2.5rem 0rem 2.5rem;
+    border-top-right-radius: 1rem;    
     color: white;
-    padding: 1rem 2rem;
+    padding: 2rem 1rem;
 }
 
 .footer-background .list {
