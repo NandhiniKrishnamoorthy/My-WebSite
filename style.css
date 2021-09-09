@@ -45,6 +45,19 @@ body {
     font-weight:bold;
 }
 
+/*Header*/
+.hero{
+    padding:2rem;
+}
+
+.hero .hero-image{
+    width : 300px;
+}
+
+.hero .highlighter{
+    color:var(--primary-color);
+}
+
 /*footer*/
 .footer-brand{
     font-size:medium;
