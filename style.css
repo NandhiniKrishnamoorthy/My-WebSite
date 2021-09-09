@@ -71,6 +71,7 @@ body {
 
     .hero .hero-heading .highlighter {
         color: var(--primary-color);
+        text-align:center;
     }
 
 /*footer*/
