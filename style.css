@@ -92,3 +92,7 @@ body {
 .footer-background .link-active {
     font-weight: bold;
 }
+
+.footer-icon{
+    padding : 2rem;
+}
