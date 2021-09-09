@@ -2,6 +2,7 @@
 
 :root {
     --primary-color: #60A5FA;
+    --dark-gray: #6b7280;
 }
 
 body {
@@ -51,13 +52,20 @@ body {
 }
 
 .hero .hero-image{
+    align-content:center;
     padding : 0rem 2rem;
     width : 200px;
 }
 
-.hero .highlighter{
-    color:var(--primary-color);
+.hero .hero-heading {
+    text-align: center;
+    padding-top: 1rem;
+    color: var(--dark-gray);
 }
+
+    .hero .hero-heading .highlighter {
+        color: var(--primary-color);
+    }
 
 /*footer*/
 .footer-brand{
