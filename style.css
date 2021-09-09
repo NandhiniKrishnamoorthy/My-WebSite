@@ -27,20 +27,26 @@ body {
     padding: 0.5rem 2rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;    
-    margin:0rem 2.5rem 0rem 2.5rem;
-    max-width:1000px;
+    margin:0rem 2.5rem 0rem 2.5rem;    
+}
+
+.nav-brand{
+    font-weight:bold;
 }
 
 /*Link*/
-.list-link{
-    color:white;
-}
-
-.link{
-    text-decoration:none;
+.link {
+    text-decoration: none;
     padding: 0rem 0.5rem;
+    color: white;
 }
 
 .nav-background .link-active{
     font-weight:bold;
+}
+
+/*footer*/
+.footer-brand{
+    font-size:medium;
+    text-align:center;
 }
