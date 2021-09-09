@@ -27,6 +27,8 @@ body {
     padding: 1rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
+    max-width:1000px;
+    margin:auto;
 }
 
 /*Link*/
