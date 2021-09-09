@@ -66,6 +66,7 @@ body {
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
+    margin:auto;
 }
 
     .hero .hero-heading .highlighter {
