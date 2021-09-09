@@ -49,14 +49,15 @@ body {
 /*Header*/
 .hero{
     padding:2rem;
+    padding-top:5rem;
 }
 
-.hero .hero-image{
-    align-content:center;
-    padding : 0rem 2rem;
-    max-width : 65%;
-    margin:auto;
-}
+    .hero .hero-image {
+        max-width: 70%;
+        margin: auto;
+        width: 550px;
+        display: block;
+    }
 
 .hero .hero-heading {
     text-align: center;
