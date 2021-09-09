@@ -39,6 +39,6 @@ body {
     padding: 0rem 0.5rem;
 }
 
-.link-active{
+.nav-background .link-active{
     font-weight:bold;
 }
