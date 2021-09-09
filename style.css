@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@500&display=swap');
+
 :root {
     --primary-color: #60A5FA;
 }
 
 body {
-    font-family: "Vollkorn", sans-serif;
+    font-family: 'Vollkorn', serif;
 }
 
 /**List**/
@@ -27,4 +29,9 @@ body {
 
 .nav-background .list-link{
     color:white;
+}
+
+.link{
+    text-decoration:none;
+    padding: 0rem 0.5rem;
 }
