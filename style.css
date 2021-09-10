@@ -110,6 +110,10 @@ body {
         margin:auto;
     }
 
+    .section-technology .tech{
+        padding: 1.5rem;
+    }
+
 /*footer*/
 .footer-brand{
     font-size:medium;
