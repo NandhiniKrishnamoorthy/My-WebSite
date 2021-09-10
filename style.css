@@ -118,6 +118,10 @@ body {
         margin:auto;        
     }
 
+    .section-container{
+        text-align:center;
+    }
+
 /*footer*/
 .footer-brand{
     font-size:medium;
