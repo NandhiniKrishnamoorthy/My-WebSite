@@ -118,8 +118,15 @@ body {
         margin:auto;        
     }
 
+/*Projects*/
     .section-container{
         text-align:center;
+    }
+
+    .primary-link{
+        background-color:var(--primary-color);
+        border-radius: 1rem;
+        margin:auto;
     }
 
 /*footer*/
