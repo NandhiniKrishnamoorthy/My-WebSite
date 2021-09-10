@@ -4,6 +4,7 @@
     --primary-color: #60A5FA;
     --dark-gray: #6b7280;
     --section-primary-color: #F3F4F6;
+    --section-secondary-color: #F3F4F6;
 }
 
 body {
@@ -125,11 +126,22 @@ body {
 
     .primary-link{
         background-color:var(--primary-color);
-        border-radius: 1rem;
+        border-radius: 2rem;
         margin:auto;
         text-decoration:none;
-        padding:1rem 1rem;
+        padding:0.5rem 1rem;
+        color:white;
+        text-align:center;
     }
+
+.secondary-link {    
+    border-radius: 2rem;
+    margin: auto;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    color: var(--primary-color);
+    text-align: center;
+}
 
 /*footer*/
 .footer-brand{
