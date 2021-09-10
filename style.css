@@ -105,8 +105,9 @@ body {
 
     .section-technology .oneline {
         display: inline;
-        padding: 3rem 1rem;
+        padding: 1rem 1rem;
         background: white;
+        margin:auto;
     }
 
 /*footer*/
