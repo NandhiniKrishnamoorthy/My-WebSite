@@ -3,6 +3,7 @@
 :root {
     --primary-color: #60A5FA;
     --dark-gray: #6b7280;
+    --section-primary-color: #DDD6FE;
 }
 
 body {
@@ -73,6 +74,13 @@ body {
         color: var(--primary-color);
         text-align:center;
     }
+
+    /*section*/
+    /*technology*/
+.section-technology{
+    background-color:var(--section-primary-color);
+    margin:auto;
+}
 
 /*footer*/
 .footer-brand{
