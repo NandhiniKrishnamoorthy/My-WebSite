@@ -31,8 +31,7 @@ body {
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;    
     margin:auto;
-    max-width:900px;
-    position:fixed;
+    max-width:900px;    
 }
 
 .nav-brand{
