@@ -97,11 +97,12 @@ body {
 }
 
     .section-technology .nonbullet {
-        list-style: none;        
-        padding:0.5rem;        
+        list-style: none;
+        padding: 0.5rem;
         margin: auto;
         font-weight: 200;
-        font-size:medium;
+        font-size: medium;
+        text-align: justify;
     }
 
     .section-technology .oneline {
