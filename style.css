@@ -88,9 +88,12 @@ body {
     border-bottom-right-radius: 1rem;
     color: black;
     font-weight: bold;
-    font-size: x-large;
-    text-align:center;
+    font-size: x-large;    
     padding: 1rem;
+}
+
+.section-technology .section-brand{
+    text-align: center;
 }
 
     .section-technology .nonbullet {
