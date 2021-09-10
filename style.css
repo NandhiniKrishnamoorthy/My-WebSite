@@ -127,6 +127,8 @@ body {
         background-color:var(--primary-color);
         border-radius: 1rem;
         margin:auto;
+        text-decoration:none;
+        padding:1rem 1rem;
     }
 
 /*footer*/
