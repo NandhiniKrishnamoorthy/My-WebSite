@@ -141,6 +141,7 @@ body {
     padding: 0.5rem 1rem;
     color: var(--primary-color);
     text-align: center;
+    border-style:solid;
 }
 
 /*footer*/
