@@ -109,13 +109,12 @@ body {
         text-align: justify;
         background: white;
         margin:auto;
-        padding:0rem 1.5rem;
+        padding:0rem 1rem;
     }
 
     .section-technology .tech{
         padding: 1rem;
-        margin:auto;
-        text-align:justify;
+        margin:auto;        
     }
 
 /*footer*/
