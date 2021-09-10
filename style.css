@@ -87,14 +87,14 @@ body {
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
     color: black;
-    font-weight: bold;
-    font-size: x-large;    
     padding: 1rem;
 }
 
-.section-technology .section-brand{
-    text-align: center;
-}
+    .section-technology .section-brand {
+        text-align: center;
+        font-weight: bold;
+        font-size: x-large;
+    }
 
     .section-technology .nonbullet {
         list-style: none;
