@@ -3,8 +3,7 @@
 :root {
     --primary-color: #60A5FA;
     --dark-gray: #6b7280;
-    --section-primary-color: #F3F4F6;
-    --section-secondary-color: #F3F4F6;
+    --section-primary-color: #F3F4F6;    
 }
 
 body {
@@ -135,6 +134,7 @@ body {
     }
 
 .secondary-link {    
+    border-color:var(--primary-color);
     border-radius: 2rem;
     margin: auto;
     text-decoration: none;
