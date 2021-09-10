@@ -96,7 +96,7 @@ body {
     .section-technology .nonbullet {
         list-style: none;
         padding-inline-start: 0px;
-        padding:0.5rem 2rem;
+        padding:0.5rem;
         text-align: center;
         margin: auto;
         font-weight: 200;
@@ -111,7 +111,7 @@ body {
     }
 
     .section-technology .tech{
-        padding: 1.5rem;
+        padding: 1rem;
     }
 
 /*footer*/
