@@ -98,6 +98,8 @@ body {
         padding-inline-start: 0px;
         text-align: center;
         margin: auto;
+        font-weight: 200;
+        font-size:medium;
     }
 
     .section-technology .oneline {
