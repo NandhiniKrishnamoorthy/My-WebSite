@@ -101,8 +101,7 @@ body {
         padding: 0.5rem;
         margin: auto;
         font-weight: 200;
-        font-size: medium;
-        text-align: justify;
+        font-size: medium;        
     }
 
     .section-technology .oneline {
@@ -115,6 +114,7 @@ body {
     .section-technology .tech{
         padding: 1rem;
         margin:auto;
+        text-align:justify;
     }
 
 /*footer*/
