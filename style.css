@@ -106,7 +106,7 @@ body {
 
     .section-technology .oneline {
         display: inline;
-        padding: 1rem;
+        padding: inherit;
         background: white;
         margin:auto;
     }
