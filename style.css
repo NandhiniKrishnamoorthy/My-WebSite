@@ -101,7 +101,8 @@ body {
         padding: 0.5rem 0.5rem;
         margin: auto;
         font-weight: 200;
-        font-size: medium;        
+        font-size: medium; 
+        text-align:center;
     }
 
     .section-technology .oneline {
