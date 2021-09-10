@@ -46,7 +46,7 @@ body {
     margin:auto;
 }
 
-.nav-background .link-active{
+.nav-background .active-link{
     font-weight: bold;
 }
 
