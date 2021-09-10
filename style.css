@@ -106,6 +106,7 @@ body {
     .section-technology .oneline {
         display: inline;
         padding: 1rem 1rem;
+        background: white;
     }
 
 /*footer*/
