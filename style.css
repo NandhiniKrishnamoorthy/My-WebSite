@@ -3,7 +3,7 @@
 :root {
     --primary-color: #60A5FA;
     --dark-gray: #6b7280;
-    --section-primary-color: #DDD6FE;
+    --section-primary-color: #F3F4F6;
 }
 
 body {
@@ -80,6 +80,14 @@ body {
 .section-technology{
     background-color:var(--section-primary-color);
     margin:auto;
+    max-width:900px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    color: black;
+    font-weight: bold;
+    font-size: large;
 }
 
 /*footer*/
