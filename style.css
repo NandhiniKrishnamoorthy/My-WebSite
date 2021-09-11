@@ -95,18 +95,6 @@ body {
     background-color:white;
 }
 
-.blogs-left{
-    text-align:left;
-}
-
-.blogs-right{
-    text-align: right;
-}
-
-.blogs-center{
-    text-align: center;
-}
-
     .section-technology .section-brand {
         text-align: center;
         font-weight: bold;
@@ -160,6 +148,18 @@ body {
     color: var(--primary-color);
     text-align: center;
     border-style:solid;
+}
+
+.blogs-left {
+    text-align: left;
+}
+
+.blogs-right {
+    text-align: right;
+}
+
+.blogs-center {
+    text-align: center;
 }
 
 /*footer*/
